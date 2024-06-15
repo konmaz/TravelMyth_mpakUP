@@ -15,3 +15,7 @@ cd Frontend_code/pack_n_go
 npm install
 npm run dev
 ```
+
+## Diagram
+
+![Untitled Diagram](https://github.com/konmaz/TravelMyth_mpakUP/assets/58148103/2124322f-0072-46bc-9c40-e204fef2b9e4)
